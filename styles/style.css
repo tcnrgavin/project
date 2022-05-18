@@ -12,5 +12,7 @@ h1 {
 p {
   color: blue;
   font-size: 1rem;
+  line-height: 1.5em;
+  background-color: #000000;
 }
 /*# sourceMappingURL=style.css.map */
