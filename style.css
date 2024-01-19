@@ -13,3 +13,8 @@ p{
     font-size: 2rem;
     font-weight: bold;
 }
+
+h2{
+    font-size: 3rem;
+    color: red;
+}
